@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "367839936549",
+    "project_id": "audioapp1-8c8da",
+    "storage_bucket": "audioapp1-8c8da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367839936549:android:3f45f8f34857c170af7fcc",
+        "android_client_info": {
+          "package_name": "com.example.audio_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367839936549-5g1tlhde3vjv9o872medjio2qc7jfdqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audio_app1",
+            "certificate_hash": "c968ff4cf5f8f77f318f5f5c8a45936c78194a77"
+          }
+        },
+        {
+          "client_id": "367839936549-h7t9tjfvk6hg3hpl6m5gvudvpc0v501m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwoXmnFcV_nxewmDD4DMuM_M2Al0F7pd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367839936549-h7t9tjfvk6hg3hpl6m5gvudvpc0v501m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367839936549-0rqilfoo9po6sfbq7kh31ld7co48km7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.audioApp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
